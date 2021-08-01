@@ -7,7 +7,7 @@ Copy *amember-batch-delete* folder into *wp-content/plugins/* folder of your WP 
 Aweber should be installed in root of WP installation in **amember** directory.
 
 ## How to Use
-Navigate to Amember->Batch Delete page, enter your API key and select CSV file that contains user emails ( file must contain a header row ).
+Navigate to *Amember->Batch Delete* page, enter your API key and select CSV file that contains user emails ( file must contain a header row ).
 
 After that select a column that holds emails and click **Check Emails** to check if emails exists in Aweber.
 
