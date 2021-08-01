@@ -1,0 +1,15 @@
+#abd-column-container,
+#abd-status-container,
+#abd-button-container {
+    display: none;
+}
+
+#abd-spinner {
+    float: none;
+    margin: 0;
+    vertical-align: middle;
+}
+
+body:not(.abd-working) #abd-spinner {
+    display: none;
+}
